@@ -2,7 +2,6 @@
 
 A full-stack e-commerce application inspired by Amazon, built with React, Firebase, Express, and Stripe. The project demonstrates authentication, state management, API integration, protected routes, and payment processing.
 
-**Live Demo:** https://amazon-clone-ne.netlify.app
 
 ## Features
 
